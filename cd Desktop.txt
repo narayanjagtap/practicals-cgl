@@ -1,0 +1,7 @@
+cd Desktop/
+
+touch FileName.cpp
+
+g++  FileName.cpp -o FileName -lglut -lGLU -lGL
+
+./FileName
